@@ -1,0 +1,19 @@
+{
+  "name": "proyecto_1",
+  "version": "1.0.0",
+  "description": "proyecto 1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectorhernandezalfonso/austral_curso_1.git"
+  },
+  "author": "Hector Alfonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hectorhernandezalfonso/austral_curso_1/issues"
+  },
+  "homepage": "https://github.com/hectorhernandezalfonso/austral_curso_1#readme"
+}
